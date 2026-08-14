@@ -1,0 +1,58 @@
+title: Kaidala
+description: Home of at-home carpentry and wood-working
+lang: en
+
+url: "https://dankanacharya.github.io"
+baseurl: "/kaidala"
+
+repository: dankanacharya/kaidala
+
+# These four ship with GitHub Pages and are always on. They are listed here,
+# with their settings made explicit, so the build does not depend on defaults:
+#
+#   optional_front_matter  — renders .md files that have no YAML front matter
+#   readme_index           — serves each folder's README.md as that folder's index
+#   relative_links         — rewrites links like foo.md to the built page URL
+#   titles_from_headings   — takes <title> from the first H1 in each file
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+optional_front_matter:
+  remove_originals: true
+
+readme_index:
+  remove_originals: true
+  with_frontmatter: true
+
+relative_links:
+  enabled: true
+  collections: false
+
+titles_from_headings:
+  enabled: true
+  strip_title: false
+  collections: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .claude/
+  - README-site-notes.md
