@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+
+  {%- seo -%}
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23FCFBF8'/%3E%3Cg stroke='%23C89B6A' stroke-width='3' fill='none'%3E%3Cpath d='M11 2v28M21 2v28M2 11h28M2 21h28'/%3E%3C/g%3E%3C/svg%3E">
+  <link rel="stylesheet" href="{{ '/assets/css/kaidala.css' | relative_url }}">
+</head>
+<body>
+
+<a class="skip" href="#content">Skip to content</a>
+
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <svg class="brand-mark" viewBox="0 0 32 32" width="20" height="20" aria-hidden="true">
+        <g stroke="currentColor" stroke-width="2.5" fill="none">
+          <path d="M11 2v28M21 2v28M2 11h28M2 21h28"/>
+        </g>
+      </svg>
+      <span>{{ site.title | default: 'Kaidala' }}</span>
+    </a>
+    <nav class="nav">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="here"{% endif %}>Home</a>
+      <a href="{{ '/diy_projects/' | relative_url }}"{% if page.url contains '/diy_projects' %} class="here"{% endif %}>DIY projects</a>
+      {%- if site.repository %}
+      <a href="https://github.com/{{ site.repository }}" class="ext">Source</a>
+      {%- endif %}
+    </nav>
+  </div>
+</header>
+
+<div class="wrap layout">
+
+  <aside class="toc" id="toc" hidden>
+    <h2 class="toc-title">Contents</h2>
+    <nav id="toc-list"></nav>
+  </aside>
+
+  <main class="content" id="content">
+    {{ content }}
+  </main>
+
+</div>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>{{ site.description }}</p>
+    <p class="fine">
+      Written as plain Markdown ·
+      <a href="{{ '/LICENSE' | relative_url }}">GPL&#8209;3.0</a>
+      {%- if site.repository %} ·
+      <a href="https://github.com/{{ site.repository }}">View on GitHub</a>
+      {%- endif %}
+    </p>
+  </div>
+</footer>
+
+<script>
+(function () {
+  document.querySelectorAll('.content table').forEach(function (t) {
+    // Wrap wide tables so they scroll on their own instead of the page.
+    var box = document.createElement('div');
+    box.className = 'table-wrap';
+    t.parentNode.insertBefore(box, t);
+    box.appendChild(t);
+
+    // Markdown needs a header row even when there isn't one; kramdown fills
+    // those cells with a non-breaking space. Drop the empty band.
+    var head = t.tHead;
+    if (head && !head.textContent.replace(/[\s ]/g, '')) head.hidden = true;
+  });
+
+  // Build the sidebar from the headings the page already has, skipping the
+  // subtitle line that sits directly under the page title.
+  var heads = Array.prototype.filter.call(
+    document.querySelectorAll('.content h2, .content h3'),
+    function (h) {
+      var prev = h.previousElementSibling;
+      return !(h.tagName === 'H3' && prev && prev.tagName === 'H1');
+    }
+  );
+  var list = document.getElementById('toc-list');
+  var aside = document.getElementById('toc');
+  if (heads.length < 3) return;
+
+  heads.forEach(function (h) {
+    if (!h.id) return;
+    var a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = h.textContent;
+    a.className = h.tagName === 'H3' ? 'sub' : '';
+    list.appendChild(a);
+  });
+  if (!list.childNodes.length) return;
+  aside.hidden = false;
+  document.querySelector('.layout').classList.add('has-toc');
+
+  // Mark the section currently in view.
+  var links = list.querySelectorAll('a');
+  var seen = new Map();
+  var obs = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) { seen.set(e.target.id, e.isIntersecting); });
+    var active = null;
+    heads.forEach(function (h) { if (seen.get(h.id) && !active) active = h.id; });
+    if (!active) return;
+    links.forEach(function (a) {
+      a.classList.toggle('here', a.getAttribute('href') === '#' + active);
+    });
+  }, { rootMargin: '-70px 0px -70% 0px' });
+  heads.forEach(function (h) { if (h.id) obs.observe(h); });
+})();
+</script>
+
+</body>
+</html>
