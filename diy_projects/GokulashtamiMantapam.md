@@ -1,3 +1,5 @@
+← [Wiki home](../README.md) · [DIY projects](README.md)
+
 # 40" × 40" × 70" Knock-Down Lattice Gokulashtami Mantapam
 
 A square open-grid pergola with a 5 × 5 lattice top, hanging hooks at every crossing, and legs that bolt on and off with stainless threaded inserts. Buildable with a hand saw, a drill, and a mitre box.
