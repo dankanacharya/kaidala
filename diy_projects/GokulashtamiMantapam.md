@@ -1,8 +1,7 @@
-← [Wiki home](../README.md) · [DIY projects](README.md)
+# Gokulashtami Mantapam
+### 40" × 40" × 70" knock-down lattice canopy
 
-# 40" × 40" × 70" Knock-Down Lattice Gokulashtami Mantapam
-
-A square open-grid pergola with a 5 × 5 lattice top, hanging hooks at every crossing, and legs that bolt on and off with stainless threaded inserts. Buildable with a hand saw, a drill, and a mitre box.
+A square open-grid mantapam with a 5 × 5 lattice roof, hanging hooks at every crossing, and legs that bolt on and off with stainless threaded inserts. It breaks down flat for storage between festivals. Buildable with a hand saw, a drill, and a mitre box.
 
 **Key dimensions**
 
@@ -11,9 +10,11 @@ A square open-grid pergola with a 5 × 5 lattice top, hanging hooks at every cro
 | Overall footprint | 40" × 40" |
 | Overall height | 70" |
 | Clear height under the frame | 68½" |
-| Grid cells | 5 × 5, each 6½" square |
-| Grid depth | 1½" (two ¾" layers) |
+| Lattice cells | 5 × 5, each 6½" square |
+| Lattice depth | 1½" (two ¾" layers) |
 | Hooks | 16, one per crossing, facing down |
+
+![Isometric wireframe of the assembled mantapam, showing the top frame, lattice, hooks, legs and bottom rail](images/mantapam-wireframe-1-assembled.svg)
 
 ---
 
@@ -21,82 +22,90 @@ A square open-grid pergola with a 5 × 5 lattice top, hanging hooks at every cro
 
 The whole design rests on one idea: **the 1x2 frame stands on edge (1½" tall), and the two layers of ¾" lattice strips exactly fill that 1½".** No half-lap joints, no notching. One set of four strips lies flat along the bottom half; the second set lies flat on top of them, flush with the top of the frame.
 
+![Cross-section through the frame edge, showing two ¾ inch layers filling the 1½ inch frame with a screw hook passing through both](images/frame-section.svg)
+
 The numbers fall out clean:
 
 - Inside opening: 40 − (2 × ¾) = **38½"**
 - Four strips × 1½" = 6"; 38½ − 6 = 32½; ÷ 5 = **6½" cells**
 - Strip centrelines at **8", 16", 24", 32"** measured from the outside corner — the same four marks on every frame piece
 
-The build breaks into three sub-assemblies:
+![Front elevation with overall dimensions: 40 inch footprint, 70 inch height, 68½ inch clear under the frame, bottom rail 6 inches above the floor](images/mantapam-elevation.svg)
 
-1. **Grid panel** — 8 strips locked into a rigid egg-crate by the 16 hooks. Built once, rarely taken apart.
-2. **Frame** — 4 pieces of 1x2 around the grid panel.
-3. **Legs** — 4 posts that bolt on with two stainless bolts each, and drop into anchor bases at the floor.
+The build breaks into sub-assemblies:
 
-For storage or transport, undo 8 bolts and the whole thing becomes a flat 40 × 40 panel plus four sticks.
+1. **Lattice panel** — 8 strips locked into a rigid egg-crate by the 16 hooks. Built once, never taken apart.
+2. **Top frame** — 4 pieces of 1x2 around the lattice panel.
+3. **Legs** — 4 posts that bolt on with two stainless bolts each.
+4. **Bottom rail** (optional but recommended indoors) — 4 more pieces of 1x2 near the floor.
+
+![Exploded isometric view showing assembly order: lattice panel, top frame, legs, bottom rail](images/mantapam-wireframe-2-exploded.svg)
+
+For storage, undo the bolts and it becomes a flat 40 × 40 panel, four sticks, and four rails.
 
 ---
 
 ## 2. Read this before you buy anything
 
-### 2.1 The post anchors replace the knee braces only if you bolt them down
+### 2.1 Indoors changes the stability plan
 
-The [OTTFF square post anchor base](https://www.amazon.com/gp/product/B0D69RMWR3/) has a 3½" × 3½" plate and a **1¾" socket**. On a 70" post that is a very short grip — roughly a 40:1 aspect ratio. It becomes a real structural connection only when the base plate is lag-bolted into a deck, a slab, or a concrete footing. Then each leg behaves as a cantilever fixed at the base, and the top joint only has to hold the frame on rather than resist racking. That is a legitimate scheme and it is why your substitution works.
+The design as originally drawn used [square post anchor bases](https://www.amazon.com/gp/product/B0D69RMWR3/) lag-bolted into a deck or slab. That works structurally — each leg becomes a cantilever fixed at the base — but **it requires drilling into your floor**, which you almost certainly don't want to do in a puja room or hall.
 
-**On grass, soil, gravel, or pavers set in sand, the anchors do nothing for stability.** In that case keep four of the original knee braces, or plan on the optional stiffener in §7.
+Those anchors have a 3½" × 3½" plate and only a **1¾" socket**. Sitting loose on a tiled or wood floor they do essentially nothing for racking; they are a foot, not a brace.
 
-Two more things about the anchors:
+**For indoor use, add the bottom rail instead.** Four more 1x2 pieces, identical in length to the top frame, bolted to the legs with the same threaded-insert system about 6" above the floor. This turns four independent posts into a rigid box in both directions, with no floor fixing at all. It also gives you a natural ledge at the base — useful for lamps, kolam, or flower arrangements.
 
-- **Screw through the socket walls into the leg.** Friction alone will let the post pivot. The socket should have holes for #10 screws; if yours only has holes in the base plate, drill your own — four #10 stainless screws, one per wall, about 1" up from the plate.
-- **The socket is sized for steel tube (38.1 mm), not lumber.** Wood 2x2 runs slightly over or under 1½" and is rarely perfectly square. Expect to sand or plane the bottom 2" of each leg to fit. Cedar S4S is closer to true than construction pine.
+You can use both if you like. The rail does the structural work; the anchor plates just spread the load and protect the floor.
 
-### 2.2 The legs get shorter
+### 2.2 Leg length
 
-The base plate is 11-gauge, about ⅛" thick, and the leg sits on top of it inside the socket.
+The top frame does **not** sit on top of the legs — it bolts to their sides, with the leg top flush with the frame top at 70". So there is nothing to subtract except a base plate, if you use one.
 
-```
-70"  overall
-−  1½"  grid/frame assembly
-−  ⅛"   base plate
-= 68⅜"  leg length
-```
+| Setup | Leg length |
+|---|---|
+| Indoor, legs resting directly on the floor | **70"** |
+| With anchor base plates (≈⅛" thick) | **69⅞"** |
 
-**Cut the legs 68⅜", not 70".** Dry-fit one leg in its anchor and measure before cutting the other three — plate thickness varies.
+Dry-fit one leg before cutting the other three — plate thickness varies by manufacturer.
 
-### 2.3 The base plates stick out ¼"
+The leg runs the full height through the lattice zone but never touches a strip: it occupies ¾"–2¼" in from the corner, and the nearest strip centreline is at 8". It sits in the empty corner cell with almost 6" to spare.
 
-Each leg sits with its outer corner ¾" in from the frame edge, so the leg centre is 1½" from the edge. A 3½" plate centred on that reaches ¼" past the 40" footprint on two sides. Not enough to matter, but worth knowing if the piece goes tight against a wall.
+### 2.3 Wood choice indoors
 
-### 2.4 Indoor or outdoor?
+Indoors, **your original picks are fine.** The objection I raised earlier — that red oak rots outdoors — doesn't apply here. Oak is a good choice for the visible frame: it takes a clear finish beautifully and is hard enough to survive years of setup and teardown.
 
-If this is going outside, **do not use the red oak.** Red oak has open pores that wick water straight down the grain; it greys and starts breaking down within a season or two of exposure. Whitewood furring and untreated pine are not much better. For anything exposed, build the whole thing in cedar (§3, Option B).
+Cedar remains an option if you like the colour and smell, and it's much lighter to carry, which matters for something you'll move every year.
 
-Your original picks are fine for indoors or a covered porch.
+### 2.4 Floor protection
+
+Bare 2x2 end grain on tile or hardwood will mark it. Add stick-on felt pads to the bottom of each leg, or the anchor plates with felt underneath. This also lets you level small floor irregularities with a shim.
 
 ---
 
 ## 3. Materials
 
-Prices are rough 2026 ballpark and vary a lot by region. Home Depot and Lowe's stock varies by store — several of the links below may show "unavailable" online and still be on the rack locally, so check store inventory rather than trusting the web page.
+Prices are rough 2026 ballpark and vary by region. Home Depot and Lowe's stock varies by store — several of the links below may show "unavailable" online and still be on the rack locally, so check store inventory rather than trusting the web page.
 
-### Option A — indoor / covered porch (your original picks)
+### Option A — indoor (your original picks)
 
 | Part | Product | Qty | ~Cost |
 |---|---|---|---|
-| Frame | [ReliaBilt 1x2x8 unfinished oak](https://www.lowes.com/pd/ReliaBilt-1-in-x-2-in-x-8-ft-Square-Unfinished-Oak-Board/5002044635) | 2 | $30 |
-| Grid strips | [1x2x8 whitewood furring strip](https://www.lowes.com/pd/1-in-x-2-in-x-8-ft-Whitewood-Furring-Strip/1000427899) | 5 | $15 |
+| Top frame + bottom rail | [ReliaBilt 1x2x8 unfinished oak](https://www.lowes.com/pd/ReliaBilt-1-in-x-2-in-x-8-ft-Square-Unfinished-Oak-Board/5002044635) | 4 | $60 |
+| Lattice strips | [1x2x8 whitewood furring strip](https://www.lowes.com/pd/1-in-x-2-in-x-8-ft-Whitewood-Furring-Strip/1000427899) | 5 | $15 |
 | Legs | [2x2x6 pine board](https://www.lowes.com/pd/Common-2-in-x-2-in-x-6-ft-Actual-1-5-in-x-1-5-in-x-6-ft-Pine-Board/1000110405) | 4 | $24 |
 
-Buy 5 furring strips even though you need 4 — they are commonly bowed, wet, or twisted, and culling one is normal. Sight down every board in the store before it goes in the cart. A ¼" bow in a 68" leg will show badly.
+Buy 5 furring strips even though you need 4 — they are commonly bowed, wet, or twisted, and culling one is normal. Sight down every board in the store before it goes in the cart. A ¼" bow in a 70" leg will show badly.
 
-### Option B — outdoor (recommended if exposed)
+If you skip the bottom rail, buy 2 oak boards instead of 4.
+
+### Option B — cedar (lighter to carry, or if it will ever sit outdoors)
 
 | Part | Product | Qty | ~Cost |
 |---|---|---|---|
-| Frame + grid | [1x2x8 cedar board](https://www.homedepot.com/p/1-in-x-2-in-x-8-ft-Cedar-Board-234926/203429559) — or [browse 1x2 softwood](https://www.homedepot.com/b/Lumber-Composites-Boards-Planks-Wood-Boards-Softwood-Boards/1-in-x-2-in/N-5yc1vZchznZ1z0n4tc) | 6–7 | $55 |
+| Frame, rail, lattice | [1x2x8 cedar board](https://www.homedepot.com/p/1-in-x-2-in-x-8-ft-Cedar-Board-234926/203429559) — or [browse 1x2 softwood](https://www.homedepot.com/b/Lumber-Composites-Boards-Planks-Wood-Boards-Softwood-Boards/1-in-x-2-in/N-5yc1vZchznZ1z0n4tc) | 8–9 | $70 |
 | Legs | [2x2x8 Premium S4S cedar](https://www.homedepot.com/p/2-in-x-2-in-x-8-ft-Premium-S4S-Cedar-Lumber-MR0510820/202302566) | 4 | $56 |
 
-Cedar S4S is dimensionally accurate, which matters here because both the anchor sockets and the spacing math assume a true 1½".
+Cedar S4S is dimensionally accurate, which matters because the spacing math assumes a true 1½".
 
 ### Other substitutions
 
@@ -104,10 +113,10 @@ Cedar S4S is dimensionally accurate, which matters here because both the anchor 
 |---|---|---|
 | Frame | Poplar 1x2 | Best surface if you're painting; very straight; cheaper than oak |
 | Frame | Primed finger-joint pine 1x2 | Cheapest paint-grade option |
-| Frame | [Cedar-tone pressure-treated 1x2](https://www.homedepot.com/p/WeatherShield-1-in-x-2-in-x-8-ft-1-Cedar-Tone-Pressure-Treated-Board-163063/203982395) | Outdoor durability at pine prices; let it dry a few weeks before finishing |
-| Grid | Select pine 1x2 | Roughly 2× the price of furring, far straighter — worth it here since strip straightness sets how the lattice looks |
-| Legs | Poplar 2x2 | Straightest of the cheap options, but paint it if it's going outside |
-| Legs | Two 1x2s glued and screwed face-to-face | Fallback if every 2x2 in the bin is twisted; gives you a true 1½" × 1½" |
+| Frame | [Cedar-tone pressure-treated 1x2](https://www.homedepot.com/p/WeatherShield-1-in-x-2-in-x-8-ft-1-Cedar-Tone-Pressure-Treated-Board-163063/203982395) | Only if it will live outdoors; let it dry a few weeks before finishing |
+| Lattice | Select pine 1x2 | Roughly 2× the price of furring, far straighter — worth it since strip straightness sets how the lattice reads |
+| Legs | Poplar 2x2 | Straightest of the cheap options |
+| Legs | Two 1x2s glued and screwed face-to-face | Fallback if every 2x2 in the bin is twisted |
 
 ---
 
@@ -115,20 +124,27 @@ Cedar S4S is dimensionally accurate, which matters here because both the anchor 
 
 | Item | Qty | Notes |
 |---|---|---|
-| Square post anchor base, fits 1½" post | 4 | [OTTFF, Amazon](https://www.amazon.com/gp/product/B0D69RMWR3/) |
-| ¼"-20 stainless threaded inserts for wood, ½" long | 8 | Buy a 10-pack. [E-Z LOK 400-4-CR at Home Depot](https://www.homedepot.com/p/E-Z-LOK-Threaded-Insert-for-Hard-Wood-303-Stainless-1-4-in-20-TPI-Internal-Threads-0-500-in-L-10-Pack-400-4-CR/309572727) |
-| ¼"-20 × 1¼" stainless button-head or hex bolts | 8 | Plus 8 stainless flat washers |
+| ¼"-20 stainless threaded inserts for wood, ½" long | 16 | 8 for the top frame, 8 for the bottom rail. [E-Z LOK at Home Depot](https://www.homedepot.com/p/E-Z-LOK-Threaded-Insert-for-Hard-Wood-303-Stainless-1-4-in-20-TPI-Internal-Threads-0-500-in-L-10-Pack-400-4-CR/309572727) |
+| ¼"-20 × 1¼" stainless button-head or hex bolts | 16 | Plus 16 stainless flat washers |
 | Screw hooks, ~#8 shank, 1½"+ thread | 16 | [Hillman 25-pack](https://www.lowes.com/pd/Hillman-Steel-Screw-Hook-25-Pack/4429182) · [all screw hooks](https://www.lowes.com/pl/hooks/screw-hook/4294710936-4294701973) · [stainless only](https://www.lowes.com/pl/hooks/stainless-steel/4294710936-4294780081) |
 | #8 × 1¼" stainless wood screws | ~24 | Strip ends and frame corners |
-| #10 × 1" stainless screws | 16 | Legs into anchor sockets |
-| 3/8" lag screws or concrete anchors | 8–16 | Sized to your deck or slab |
+| Felt floor pads | 4 | |
+| Square post anchor base (optional) | 4 | [OTTFF, Amazon](https://www.amazon.com/gp/product/B0D69RMWR3/) |
 | Wood glue | — | **Only** where you don't plan to disassemble |
 
-**Insert type matters.** The E-Z LOK 400 series linked above is the *hardwood* pattern. Your legs are softwood, so buy the **softwood version** (E-Z LOK 500 series, or any insert labelled for soft wood / pine) — hardwood inserts have a coarse knife thread that can split pine. The [installation kit](https://www.homedepot.com/p/E-Z-LOK-E-Z-Knife-Threaded-Insert-for-Wood-Installation-Kit-1-4-in-20-tpi-Stainless-Steel-EZ-400-4-CR/304617626) includes the driver, which is worth having for eight inserts.
+**Insert type matters.** The E-Z LOK part linked above is their *hardwood* pattern (400 series). Your legs are softwood, so buy the **softwood version** (500 series, or any insert labelled for soft wood) — the hardwood knife thread can split pine or cedar. Threaded inserts are much cheaper online from a fastener supplier than at the big-box stores.
 
-**Why only two inserts per leg?** A ¼"-20 insert is about 29/64" across. Two of them side by side on a 1½"-wide leg face would leave under 3/16" of wood at the edges and blow out. One per face, on two adjacent faces, is the right call — and in a base-anchored design the top joint doesn't need to carry much moment anyway.
+**Why only two inserts per leg per level?** A ¼"-20 insert is about 29/64" across. Two side by side on a 1½"-wide leg face would leave under 3/16" of wood at the edges and blow out. One per face, on two adjacent faces, is the limit — and with the bottom rail in place, four bolts per leg spread top and bottom is plenty.
 
-**Hook load.** A screw hook biting ~1⅜" into softwood is good for roughly 10–15 lb each, and that assumes a straight downward pull. Fine for lanterns, light planters, air plants, string lights, kitchen utensils. Not fine for a full watered hanging basket unless you upgrade to a proper ceiling hook landing in the upper strip.
+### Hook load
+
+A screw hook biting ~1⅜" into softwood is good for roughly 10–15 lb each on a straight downward pull. That covers garlands, mango-leaf toran, small lamps, strings of flowers, decorative butter pots, fairy lights.
+
+**For anything heavier — a small unjal or cradle, a hanging brass lamp — do not use a hook.** Drill through an upper strip and use a ¼" through-bolt with a washer and lock nut on top, or better, span two strips with a short piece of hardwood and bolt through both. A hook can pull out; a through-bolt cannot.
+
+### Fire safety
+
+If you plan to place deepam or camphor near or under the structure, keep an open flame at least 18" clear of any wood, and never directly beneath the lattice — the grid will trap and channel heat. Unfinished wood, and especially anything you've oiled or varnished, ignites more readily than people expect. Battery or LED lamps are worth considering for anything hung from the lattice itself.
 
 ### Tools
 
@@ -139,7 +155,7 @@ You have the saw and drill. Add:
 - Countersink bit
 - Drill bits: 7/64" (hook pilots), 9/64" (screw pilots), 9/32" (bolt clearance), and whatever size your inserts specify (typically 3/8")
 - 2–4 clamps
-- Sanding block, 120 grit
+- Sanding block, 120 and 180 grit
 - Hex key or driver for the bolts
 
 ---
@@ -148,18 +164,20 @@ You have the saw and drill. Add:
 
 | Part | Qty | Length | Material |
 |---|---|---|---|
-| Frame, front and back | 2 | 40" | 1x2 |
-| Frame, left and right | 2 | 38½" | 1x2 |
-| Grid strips (both layers) | 8 | 38½" | 1x2 |
-| Legs | 4 | 68⅜" | 2x2 |
+| Top frame, front and back | 2 | 40" | 1x2 |
+| Top frame, left and right | 2 | 38½" | 1x2 |
+| Bottom rail, front and back | 2 | 40" | 1x2 |
+| Bottom rail, left and right | 2 | 38½" | 1x2 |
+| Lattice strips (both layers) | 8 | 38½" | 1x2 |
+| Legs | 4 | 70" (or 69⅞" with plates) | 2x2 |
 | Spacer blocks (jig, not part of the build) | 4 | 6½" | offcut |
 
 **Board yield**
 
-- Frame: two 8-ft boards → board 1 gives 40" + 40", board 2 gives 38½" + 38½"
-- Grid: four 8-ft boards → two 38½" pieces each, 19" left over per board
-- Legs: one 6-ft or 8-ft board per leg
-- Spacers: cut from grid offcuts
+- Frame and rail: four 8-ft boards → two boards give 40" + 40", two give 38½" + 38½"
+- Lattice: four 8-ft boards → two 38½" pieces each, 19" left over per board
+- Legs: one board per leg. A 6-ft (72") board leaves only 2" spare, so cut carefully and buy a spare if your stock has damaged ends
+- Spacers: cut from lattice offcuts
 
 **On the spacer blocks:** they set the strip spacing without measuring 40 times. Cut them to `(38½ − 4 × your actual strip width) ÷ 5`. If your strips measure a true 1½", that's 6½". Furring often runs 1‑7/16", which gives 6.55" — round to 6-9/16" and it will look identical.
 
@@ -171,99 +189,110 @@ You have the saw and drill. Add:
 
 Cut everything to the list above. Use the mitre box; a cut that's 2° off square will telegraph through the whole frame. Sand the faces and knock the sharp corners off every piece now, while they're loose — it's miserable later.
 
-Set the four straightest strips aside for the **upper** layer. Those are the ones people see.
+Set the four straightest strips aside for the **upper** layer. Those are the ones seen from below.
 
-### Step 2 — Mark the frame
+### Step 2 — Mark the frame and rail
 
-On the inner face of all four frame pieces, mark strip centrelines at **8", 16", 24", 32"** from one end. Mark each piece from the same end so any small error is consistent.
+On the inner face of all four top-frame pieces, mark strip centrelines at **8", 16", 24", 32"** from one end. Mark every piece from the same end so any small error stays consistent.
 
-Mark the frame vertically too: a line ½" down from the top edge and another 1" down from the top edge, at each end. Those are your bolt holes.
+Mark bolt lines too: ½" and 1" down from the top edge, at each end of every top-frame piece. On the bottom rail pieces, mark ½" and 1" down from the *top* edge of the rail as well — same pattern.
 
-### Step 3 — Build the grid panel, upside down
+### Step 3 — Build the lattice panel, upside down
 
 Work on a flat floor. Build it inverted so you can drive the hooks straight down.
 
-1. Lay the four **upper** strips down on the floor, parallel, spaced with your blocks.
+![Plan view of the finished lattice: 8 strips on centrelines at 8, 16, 24 and 32 inches, forming 6½ inch cells, with a hook at each of the 16 crossings and a leg in each corner cell](images/lattice-plan.svg)
+
+*The plan above shows the panel the right way up — the layer you lay down first ends up on top after the flip.*
+
+1. Lay the four **upper** strips down, parallel, spaced with your blocks.
 2. Lay the four **lower** strips across them, spaced the same way.
 3. Square the panel: measure both diagonals of the outer rectangle and adjust until they match. Clamp or weight it.
-4. At each of the 16 crossings, drill a **7/64" pilot straight down through the lower strip and about ⅝" into the upper strip** — roughly 1⅜" total. A depth mark of tape on the bit prevents blowing through.
-5. Drive a screw hook into each pilot. Hand-tight plus a firm quarter turn; over-torquing strips the softwood.
-6. Flip the panel. The hooks now hang below it and the panel is a rigid egg-crate.
+4. At each of the 16 crossings, drill a **7/64" pilot straight down through the lower strip and about ⅝" into the upper strip** — roughly 1⅜" total. Tape on the bit marks your depth.
+5. Drive a screw hook into each pilot. Hand-tight plus a firm quarter turn; over-torquing strips softwood.
+6. Flip the panel. The hooks now hang below it.
 
-You should be able to pick the whole panel up by one corner without it racking.
+You should be able to lift the whole panel by one corner without it racking.
 
 ### Step 4 — Install the inserts in the legs
 
 For each leg, pick two adjacent faces — these face outward toward the frame.
 
-- **Face A:** one insert, centred across the width, **½" down from the top of the leg**
-- **Face B:** one insert, centred across the width, **1" down from the top of the leg**
+![Leg-to-frame joint: plan view at the corner showing bolts 1½ inches in from the outside corner, and leg elevations with inserts ½ inch and 1 inch down from the top](images/leg-insert-detail.svg)
 
-The vertical offset is deliberate. Both inserts reach ½" into a 1½" leg, so at the same height they'd collide in the middle. Offset by ½" and they clear each other completely.
+**Top frame (measured from the top of the leg):**
+- Face A: one insert, centred across the width, **½" down**
+- Face B: one insert, centred across the width, **1" down**
 
-Drill to the insert manufacturer's spec (usually 3/8" for ¼"-20), then drive the insert flush or a hair below the surface. Go slow and keep it square — a cocked insert is very hard to recover. Practice on an offcut first.
+**Bottom rail (measured from the bottom of the leg), placing the rail's top edge at 6":**
+- Face A: one insert **5½" up**
+- Face B: one insert **5" up**
 
-### Step 5 — Assemble the frame around the panel
+The ½" vertical offset between faces is deliberate. Both inserts reach ½" into a 1½" leg, so at the same height they'd collide in the middle. Offset them and they clear completely.
+
+Drill to the insert manufacturer's spec (usually 3/8"), then drive each insert flush or a hair below the surface. Go slow and keep it square — a cocked insert is very hard to recover. Practice on an offcut first.
+
+### Step 5 — Assemble the top frame around the panel
 
 1. Stand the panel on blocks so the hooks hang clear.
 2. Fit the two 38½" frame pieces against opposite edges, then the two 40" pieces over their ends. The short pieces sit **between** the long ones.
-3. Drive one #8 × 1¼" stainless screw through the frame into the end of each strip — 16 total, one per strip end. Pilot every hole at 9/64" and countersink.
-4. Two more screws per corner through the 40" piece into the end of the 38½" piece, pilot and countersink.
+3. Drive one #8 × 1¼" stainless screw through the frame into the end of each strip — 16 total. Pilot every hole at 9/64" and countersink.
+4. Two more screws per corner through the 40" piece into the end of the 38½" piece.
 
-This is the one connection that isn't meant for repeated opening — screws into ¾" end grain will wear after a dozen or so cycles. It doesn't matter in practice, because the disassembly you actually want is at the legs.
+This is the one connection not meant for repeated opening. It doesn't matter, because the disassembly you actually want is at the legs.
 
-### Step 6 — Drill the frame for bolts and hang the legs
+### Step 6 — Drill for bolts and hang the legs
 
-At each corner, drill **9/32" clearance holes** through the frame to match your inserts: one at ½" down on one face, one at 1" down on the adjacent face. Position them so they land on the centre of where the leg will sit — ¾" + ¾" = **1½" in from the outside corner of the frame**, on both faces.
+At each corner of the top frame, drill **9/32" clearance holes**: one at ½" down on one face, one at 1" down on the adjacent face, positioned **1½" in from the outside corner** on both faces. Repeat the same pattern on the bottom rail pieces.
 
-Tuck each leg into its inside corner, line the inserts up with the holes, and run a ¼"-20 × 1¼" stainless bolt with a washer into each. Snug, not gorilla-tight — you're threading into stainless in wood.
+Tuck each leg into its inside corner, line up the inserts, and run a ¼"-20 × 1¼" stainless bolt with a washer into each. Snug, not gorilla-tight — you're threading into stainless set in wood.
 
 Bolt length check: ¾" frame + 1/16" washer leaves about 7/16" of thread in a ½" insert. It engages properly and won't bottom out.
 
-### Step 7 — Anchors and levelling
+### Step 7 — Bottom rail, then stand it up
 
-1. Slide an anchor base onto the bottom of each leg. Sand the last 2" of the leg if it binds.
-2. Screw through the socket walls into the leg — four #10 stainless screws per anchor.
-3. Stand the pergola up, square it, and check for level.
-4. Mark the plate holes, then lag or anchor-bolt all four plates to your deck or slab.
+Fit the bottom rail exactly as you did the top frame — short pieces between long ones, two bolts per leg. Stand the mantapam up, check it for square and level, and shim under a leg if your floor isn't flat.
 
-Shim under a plate if your surface isn't flat. Do not rely on twisting the frame to take up a wobble — that puts permanent load into the bolted joints.
+Do not twist the frame to take up a wobble. That puts permanent load into the bolted joints and will loosen the inserts over time.
+
+Add felt pads under the legs last.
 
 ---
 
-## 7. Optional stiffener
+## 7. Finishing
 
-If the top still sways more than you like — likely if you skipped anchoring, or if the deck itself has flex — the cheapest fix is a **stainless 2" corner brace (L-bracket)** in each corner cell, running from the inner face of the leg up to the underside of the grid. Four brackets, eight screws, fully removable, and they sit inside the corner cell where they read as intentional.
+Finish **before** final assembly if you're staining, oiling, or painting — all the inside faces of the lattice become unreachable once the hooks are in.
 
-Some sway at the very top is normal for a 68" post on a 1¾" socket. It shouldn't feel loose at hand height.
+For a piece brought out once a year and handled a lot, a wiping varnish or hardwax oil on oak is worth the effort. Two coats, sanded lightly between, and the mantapam will look better after ten festivals than after one.
+
+If you plan to tie flowers, banana stem, or fabric directly to the legs each year, avoid a high-gloss finish — it scuffs visibly where twine bites.
 
 ---
 
 ## 8. Taking it apart
 
-1. Unhook whatever is hanging from it.
-2. Remove the #10 screws holding the legs in the anchor sockets.
-3. Undo 8 bolts. The legs come off.
-4. Leave the anchor plates bolted to the floor.
+1. Unhook everything.
+2. Undo 8 bolts at the bottom rail. The rails come off.
+3. Undo 8 bolts at the top. The legs come off.
 
-Result: one 40" × 40" × 1½" flat panel, four legs, a bag of 8 bolts. Reassembly is a ten-minute job.
+Result: one 40" × 40" × 1½" flat panel, four legs, four rails, and a bag of 16 bolts. Reassembly is a fifteen-minute job.
 
-Reassemble in the same orientation each time — mark the legs and their matching corners with a pencil on a hidden face. The insert holes are drilled to fit, not to be interchangeable.
+**Mark the legs and their matching corners** with a pencil on a hidden face, and reassemble in the same orientation every year. The insert holes are drilled to fit, not to be interchangeable.
+
+Store the panel flat and on edge if possible, somewhere dry. Lying flat under weight for a year will let the strips take a set.
 
 ---
 
 ## 9. Rough budget
 
-| | Indoor (Option A) | Outdoor (Option B) |
+| | Option A, indoor | Option B, cedar |
 |---|---|---|
-| Lumber | $70 | $110 |
-| Post anchors | $25 | $25 |
-| Inserts, bolts, washers | $35 | $35 |
+| Lumber | $99 | $126 |
+| Inserts, bolts, washers | $55 | $55 |
 | Hooks | $10 | $12 |
-| Screws | $15 | $18 |
-| **Total** | **~$155** | **~$200** |
-
-Threaded inserts are the one line item much cheaper online than at the big-box stores — a stainless 25-pack from a fastener supplier or Amazon runs a fraction of the Home Depot 10-pack price.
+| Screws and felt pads | $18 | $18 |
+| Anchor bases (optional) | $25 | $25 |
+| **Total** | **~$180–205** | **~$210–235** |
 
 ---
 
@@ -272,6 +301,5 @@ Threaded inserts are the one line item much cheaper online than at the big-box s
 - **Pre-drill everything in oak.** Red oak splits readily at ¾" thickness, especially near ends.
 - **Furring strips are often thinner than ¾"**, sometimes 11/16". Your two layers may sit ⅛" shy of the frame top. Keep the upper layer flush with the top and let the gap fall at the bottom, where nobody looks.
 - **Measure your actual strip width** and adjust the spacer blocks, but keep marking centrelines at 8/16/24/32 regardless. Even centreline spacing is what makes the lattice look right.
-- **Finish before assembly** if you're staining or painting. All the inside faces of the grid become unreachable afterward.
-- **Load limits:** this is a light decorative frame. Good for string lights, lanterns, small pots, clematis or morning glory. If you want wisteria or grape, step up to 4x4 legs and set them in concrete — the design here won't take it.
-- **Wind:** an open grid catches very little, so this is not a concern outdoors relative to the anchoring already described.
+- **Load limits:** this is a light decorative structure. Garlands, toran, cloth, lamps, small hanging items. Anything with real weight needs a through-bolt, not a hook — see §4.
+- **If it will ever go outdoors,** even under a porch, switch to cedar throughout. Red oak and whitewood furring degrade quickly in the weather.

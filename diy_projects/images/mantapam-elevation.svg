@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 600" width="620" height="600" role="img" aria-label="Front elevation of the mantapam: 40 inches wide, 70 inches tall, with a top frame, four legs and a bottom rail">
+  <rect x="0" y="0" width="620" height="600" fill="#FCFBF8"/>
+  <rect x="0.5" y="0.5" width="619" height="599" fill="none" stroke="#E4E0D7"/>
+
+  <text x="310" y="32" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#2B2B2B">Front elevation</text>
+  <text x="310" y="50" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" fill="#7A756B">Legs shown through the frame for clarity</text>
+
+  <!-- floor -->
+  <line x1="120" y1="490" x2="470" y2="490" stroke="#2B2B2B" stroke-width="2"/>
+  <g stroke="#B8B2A6" stroke-width="1">
+    <line x1="126" y1="490" x2="118" y2="500"/>
+    <line x1="146" y1="490" x2="138" y2="500"/>
+    <line x1="166" y1="490" x2="158" y2="500"/>
+    <line x1="186" y1="490" x2="178" y2="500"/>
+    <line x1="206" y1="490" x2="198" y2="500"/>
+    <line x1="226" y1="490" x2="218" y2="500"/>
+    <line x1="246" y1="490" x2="238" y2="500"/>
+    <line x1="266" y1="490" x2="258" y2="500"/>
+    <line x1="286" y1="490" x2="278" y2="500"/>
+    <line x1="306" y1="490" x2="298" y2="500"/>
+    <line x1="326" y1="490" x2="318" y2="500"/>
+    <line x1="346" y1="490" x2="338" y2="500"/>
+    <line x1="366" y1="490" x2="358" y2="500"/>
+    <line x1="386" y1="490" x2="378" y2="500"/>
+    <line x1="406" y1="490" x2="398" y2="500"/>
+    <line x1="426" y1="490" x2="418" y2="500"/>
+    <line x1="446" y1="490" x2="438" y2="500"/>
+    <line x1="466" y1="490" x2="458" y2="500"/>
+  </g>
+
+  <!-- legs -->
+  <rect x="164.5" y="70" width="9" height="420" fill="#D9BC8E" stroke="#6B4A2A" stroke-width="1"/>
+  <rect x="386.5" y="70" width="9" height="420" fill="#D9BC8E" stroke="#6B4A2A" stroke-width="1"/>
+
+  <!-- hooks under the lattice -->
+  <g stroke="#8A8A8A" stroke-width="2" fill="none">
+    <path d="M200,79 v10 a5,5 0 1,0 10,0 v-4"/>
+    <path d="M250,79 v10 a5,5 0 1,0 10,0 v-4"/>
+    <path d="M300,79 v10 a5,5 0 1,0 10,0 v-4"/>
+    <path d="M350,79 v10 a5,5 0 1,0 10,0 v-4"/>
+  </g>
+
+  <!-- top frame + lattice band -->
+  <rect x="160" y="70" width="240" height="9" fill="#C89B6A" stroke="#6B4A2A" stroke-width="1"/>
+  <line x1="160" y1="74.5" x2="400" y2="74.5" stroke="#A87B4A" stroke-width="0.8"/>
+
+  <!-- bottom rail -->
+  <rect x="160" y="454" width="240" height="9" fill="#C89B6A" stroke="#6B4A2A" stroke-width="1"/>
+
+  <!-- bolt positions -->
+  <g fill="#3A3A3A">
+    <circle cx="169" cy="73.5" r="1.8"/>
+    <circle cx="169" cy="76.5" r="1.8"/>
+    <circle cx="391" cy="73.5" r="1.8"/>
+    <circle cx="391" cy="76.5" r="1.8"/>
+    <circle cx="169" cy="457.5" r="1.8"/>
+    <circle cx="169" cy="460.5" r="1.8"/>
+    <circle cx="391" cy="457.5" r="1.8"/>
+    <circle cx="391" cy="460.5" r="1.8"/>
+  </g>
+
+  <!-- dimension: overall height 70 -->
+  <g stroke="#6B6B6B" stroke-width="1">
+    <line x1="115" y1="70" x2="115" y2="490"/>
+    <line x1="160" y1="70" x2="110" y2="70" stroke="#CFC9BC"/>
+  </g>
+  <polygon points="115,70 111.5,78 118.5,78" fill="#6B6B6B"/>
+  <polygon points="115,490 111.5,482 118.5,482" fill="#6B6B6B"/>
+  <text x="108" y="280" text-anchor="middle" transform="rotate(-90 108 280)" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#3A3A3A">70″ overall</text>
+
+  <!-- dimension: clear height 68.5 -->
+  <g stroke="#6B6B6B" stroke-width="1">
+    <line x1="140" y1="79" x2="140" y2="490"/>
+    <line x1="160" y1="79" x2="136" y2="79" stroke="#CFC9BC"/>
+  </g>
+  <polygon points="140,79 136.5,87 143.5,87" fill="#6B6B6B"/>
+  <polygon points="140,490 136.5,482 143.5,482" fill="#6B6B6B"/>
+  <text x="133" y="285" text-anchor="middle" transform="rotate(-90 133 285)" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6B6B6B">68½″ clear under the frame</text>
+
+  <!-- dimension: overall width 40 -->
+  <g stroke="#CFC9BC" stroke-width="1">
+    <line x1="160" y1="492" x2="160" y2="536"/>
+    <line x1="400" y1="492" x2="400" y2="536"/>
+  </g>
+  <line x1="160" y1="530" x2="400" y2="530" stroke="#6B6B6B" stroke-width="1"/>
+  <polygon points="160,530 168,526.5 168,533.5" fill="#6B6B6B"/>
+  <polygon points="400,530 392,526.5 392,533.5" fill="#6B6B6B"/>
+  <text x="280" y="524" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#3A3A3A">40″ square footprint</text>
+
+  <!-- callouts -->
+  <g stroke="#A8A296" stroke-width="1" fill="none">
+    <path d="M401,74 L443,74"/>
+    <path d="M355,90 L443,118"/>
+    <path d="M396,200 L443,200"/>
+    <path d="M401,458 L443,458"/>
+  </g>
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#3A3A3A">
+    <text x="449" y="70">Top frame + lattice,</text>
+    <text x="449" y="85">1½″ deep</text>
+    <text x="449" y="115">16 screw hooks,</text>
+    <text x="449" y="130">one per crossing</text>
+    <text x="449" y="204">Leg — 2x2, 70″</text>
+    <text x="449" y="454">Bottom rail,</text>
+    <text x="449" y="469">top edge 6″ above floor</text>
+  </g>
+
+  <text x="310" y="570" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" fill="#7A756B">The top frame bolts to the sides of the legs, so the legs run the full 70″.</text>
+</svg>
