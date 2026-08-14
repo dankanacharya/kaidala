@@ -72,7 +72,7 @@ The leg runs the full height through the lattice zone but never touches a strip:
 
 ### 2.3 Wood choice indoors
 
-Indoors, **your original picks are fine.** The objection I raised earlier — that red oak rots outdoors — doesn't apply here. Oak is a good choice for the visible frame: it takes a clear finish beautifully and is hard enough to survive years of setup and teardown.
+Oak is a good choice for the visible frame: it takes a clear finish beautifully and is hard enough to survive years of setup and teardown.
 
 Cedar remains an option if you like the colour and smell, and it's much lighter to carry, which matters for something you'll move every year.
 
@@ -86,7 +86,7 @@ Bare 2x2 end grain on tile or hardwood will mark it. Add stick-on felt pads to t
 
 Prices are rough 2026 ballpark and vary by region. Home Depot and Lowe's stock varies by store — several of the links below may show "unavailable" online and still be on the rack locally, so check store inventory rather than trusting the web page.
 
-### Option A — indoor (your original picks)
+### Option A — Oak (richer grain)
 
 | Part | Product | Qty | ~Cost |
 |---|---|---|---|
