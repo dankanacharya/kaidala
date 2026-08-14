@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 790 600" width="790" height="600" role="img" aria-label="Plan view of the lattice: eight strips forming a five by five grid of six and a half inch cells, with sixteen hooks at the crossings">
+  <rect x="0" y="0" width="790" height="600" fill="#FCFBF8"/>
+  <rect x="0.5" y="0.5" width="789" height="599" fill="none" stroke="#E4E0D7"/>
+
+  <text x="310" y="30" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#2B2B2B">Lattice plan — 5 × 5 grid, seen from above</text>
+
+  <!-- frame -->
+  <rect x="90" y="70" width="440" height="440" fill="#C89B6A" stroke="#6B4A2A" stroke-width="1.2"/>
+  <rect x="98.25" y="78.25" width="423.5" height="423.5" fill="#FCFBF8" stroke="#6B4A2A" stroke-width="0.8"/>
+
+  <!-- lower layer, running top to bottom -->
+  <g fill="#D4B98A" stroke="#8B6B45" stroke-width="0.8">
+    <rect x="169.75" y="78.25" width="16.5" height="423.5"/>
+    <rect x="257.75" y="78.25" width="16.5" height="423.5"/>
+    <rect x="345.75" y="78.25" width="16.5" height="423.5"/>
+    <rect x="433.75" y="78.25" width="16.5" height="423.5"/>
+  </g>
+
+  <!-- upper layer, running left to right -->
+  <g fill="#E8D5B0" stroke="#8B6B45" stroke-width="0.8">
+    <rect x="98.25" y="169.75" width="423.5" height="16.5"/>
+    <rect x="98.25" y="257.75" width="423.5" height="16.5"/>
+    <rect x="98.25" y="345.75" width="423.5" height="16.5"/>
+    <rect x="98.25" y="433.75" width="423.5" height="16.5"/>
+  </g>
+
+  <!-- legs in the corner cells -->
+  <g fill="#B98A55" stroke="#6B4A2A" stroke-width="1">
+    <rect x="98.25" y="78.25" width="16.5" height="16.5"/>
+    <rect x="505.25" y="78.25" width="16.5" height="16.5"/>
+    <rect x="98.25" y="485.25" width="16.5" height="16.5"/>
+    <rect x="505.25" y="485.25" width="16.5" height="16.5"/>
+  </g>
+  <g stroke="#6B4A2A" stroke-width="0.7">
+    <line x1="98.25" y1="78.25" x2="114.75" y2="94.75"/>
+    <line x1="114.75" y1="78.25" x2="98.25" y2="94.75"/>
+    <line x1="505.25" y1="78.25" x2="521.75" y2="94.75"/>
+    <line x1="521.75" y1="78.25" x2="505.25" y2="94.75"/>
+    <line x1="98.25" y1="485.25" x2="114.75" y2="501.75"/>
+    <line x1="114.75" y1="485.25" x2="98.25" y2="501.75"/>
+    <line x1="505.25" y1="485.25" x2="521.75" y2="501.75"/>
+    <line x1="521.75" y1="485.25" x2="505.25" y2="501.75"/>
+  </g>
+
+  <!-- hooks at every crossing -->
+  <g fill="#8A8A8A" stroke="#4A4A4A" stroke-width="0.8">
+    <circle cx="178" cy="178" r="3.5"/><circle cx="266" cy="178" r="3.5"/><circle cx="354" cy="178" r="3.5"/><circle cx="442" cy="178" r="3.5"/>
+    <circle cx="178" cy="266" r="3.5"/><circle cx="266" cy="266" r="3.5"/><circle cx="354" cy="266" r="3.5"/><circle cx="442" cy="266" r="3.5"/>
+    <circle cx="178" cy="354" r="3.5"/><circle cx="266" cy="354" r="3.5"/><circle cx="354" cy="354" r="3.5"/><circle cx="442" cy="354" r="3.5"/>
+    <circle cx="178" cy="442" r="3.5"/><circle cx="266" cy="442" r="3.5"/><circle cx="354" cy="442" r="3.5"/><circle cx="442" cy="442" r="3.5"/>
+  </g>
+
+  <!-- centreline marks -->
+  <g stroke="#8A8A8A" stroke-width="0.8" stroke-dasharray="4 3">
+    <line x1="178" y1="56" x2="178" y2="70"/>
+    <line x1="266" y1="56" x2="266" y2="70"/>
+    <line x1="354" y1="56" x2="354" y2="70"/>
+    <line x1="442" y1="56" x2="442" y2="70"/>
+  </g>
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3A3A3A" text-anchor="middle">
+    <text x="178" y="50">8″</text>
+    <text x="266" y="50">16″</text>
+    <text x="354" y="50">24″</text>
+    <text x="442" y="50">32″</text>
+  </g>
+
+  <!-- one cell dimension -->
+  <line x1="186.25" y1="222" x2="257.75" y2="222" stroke="#5A5A5A" stroke-width="1"/>
+  <polygon points="186.25,222 194,218.5 194,225.5" fill="#5A5A5A"/>
+  <polygon points="257.75,222 250,218.5 250,225.5" fill="#5A5A5A"/>
+  <text x="222" y="215" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3A3A3A">6½″</text>
+
+  <!-- inside dimension -->
+  <g stroke="#CFC9BC" stroke-width="1">
+    <line x1="98.25" y1="512" x2="98.25" y2="538"/>
+    <line x1="521.75" y1="512" x2="521.75" y2="538"/>
+  </g>
+  <line x1="98.25" y1="532" x2="521.75" y2="532" stroke="#6B6B6B" stroke-width="1"/>
+  <polygon points="98.25,532 106,528.5 106,535.5" fill="#6B6B6B"/>
+  <polygon points="521.75,532 514,528.5 514,535.5" fill="#6B6B6B"/>
+  <text x="310" y="526" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#6B6B6B">38½″ inside — every strip is this length</text>
+
+  <!-- overall dimension -->
+  <g stroke="#CFC9BC" stroke-width="1">
+    <line x1="90" y1="512" x2="90" y2="562"/>
+    <line x1="530" y1="512" x2="530" y2="562"/>
+  </g>
+  <line x1="90" y1="556" x2="530" y2="556" stroke="#6B6B6B" stroke-width="1"/>
+  <polygon points="90,556 98,552.5 98,559.5" fill="#6B6B6B"/>
+  <polygon points="530,556 522,552.5 522,559.5" fill="#6B6B6B"/>
+  <text x="310" y="550" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="13" fill="#3A3A3A">40″</text>
+
+  <!-- legend -->
+  <g stroke="#8B6B45" stroke-width="0.8">
+    <rect x="560" y="103" width="14" height="14" fill="#E8D5B0"/>
+    <rect x="560" y="133" width="14" height="14" fill="#D4B98A"/>
+    <rect x="560" y="163" width="14" height="14" fill="#C89B6A"/>
+    <rect x="560" y="193" width="14" height="14" fill="#B98A55"/>
+  </g>
+  <circle cx="567" cy="230" r="3.5" fill="#8A8A8A" stroke="#4A4A4A" stroke-width="0.8"/>
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" fill="#3A3A3A">
+    <text x="582" y="114">Upper layer, 4 strips</text>
+    <text x="582" y="144">Lower layer, 4 strips</text>
+    <text x="582" y="174">1x2 top frame</text>
+    <text x="582" y="204">Leg (2x2)</text>
+    <text x="582" y="234">Screw hook × 16</text>
+  </g>
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11" fill="#7A756B">
+    <text x="560" y="278">Centrelines at 8″, 16″, 24″ and 32″ from</text>
+    <text x="560" y="294">the outside corner — the same four</text>
+    <text x="560" y="310">marks on every frame piece.</text>
+    <text x="560" y="340">Each leg sits in a corner cell with</text>
+    <text x="560" y="356">nearly 6″ of clearance to the</text>
+    <text x="560" y="372">nearest strip.</text>
+  </g>
+</svg>

@@ -29,3 +29,5 @@ New build pages generally follow this shape:
 9. **Notes and cautions**
 
 Skip what doesn't apply, but keep the order — it matches the order you actually do things in.
+
+**Drawings** go in [images/](images/) as SVG, named `<project>-<view>.svg`, and are referenced with a relative path: `![alt text](images/foo.svg)`. Give every drawing a solid light background rather than a transparent one, so it stays readable against GitHub's dark theme.
