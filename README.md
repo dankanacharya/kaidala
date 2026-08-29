@@ -13,6 +13,7 @@ Every page lives in a topic folder. Each folder has its own index, and this page
 Plans and build notes for things made by hand — dimensions, cut lists, materials, and the mistakes worth avoiding.
 
 - [Gokulashtami Mantapam](diy_projects/GokulashtamiMantapam.md) — 40" × 40" × 70" knock-down lattice mantapam with a 5 × 5 hook grid and bolt-off legs
+- [Mailbox Post](diy_projects/MailboxPost.md) — 31" × 64" solar-lit kerbside cedar mailbox post, built to the USPS height and setback rules
 
 ---
 

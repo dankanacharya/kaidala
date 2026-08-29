@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 620" width="620" height="620" role="img" aria-label="Framing diagram with the panel boards removed, showing the two posts, the beam and six horizontal 2x4 rails, each labelled with its height above the road and the fixing it backs">
+  <rect x="0" y="0" width="620" height="620" fill="#FCFBF8"/>
+  <rect x="0.5" y="0.5" width="619" height="619" fill="none" stroke="#E4E0D7"/>
+
+  <text x="310" y="32" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#2B2B2B">Framing &#8212; panel boards removed</text>
+  <text x="310" y="50" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" fill="#7A756B">Every rail exists so that a particular screw lands in solid wood</text>
+
+  <!-- posts -->
+  <rect x="217" y="177" width="21" height="327" fill="#D9BC8E" stroke="#6B4A2A" stroke-width="1"/>
+  <rect x="382" y="177" width="21" height="327" fill="#D9BC8E" stroke="#6B4A2A" stroke-width="1"/>
+
+  <!-- beam -->
+  <rect x="199" y="156" width="222" height="21" fill="#C89B6A" stroke="#6B4A2A" stroke-width="1"/>
+
+  <!-- rails -->
+  <g fill="#C89B6A" stroke="#6B4A2A" stroke-width="1">
+    <rect x="238" y="177" width="144" height="21"/>
+    <rect x="238" y="198" width="144" height="21"/>
+    <rect x="238" y="240" width="144" height="21"/>
+    <rect x="238" y="270" width="144" height="21"/>
+    <rect x="238" y="342" width="144" height="21"/>
+    <rect x="238" y="363" width="144" height="21"/>
+  </g>
+
+  <!-- screws through the post faces into the rail ends -->
+  <g fill="#5A5650">
+    <circle cx="227" cy="183" r="1.8"/><circle cx="227" cy="192" r="1.8"/>
+    <circle cx="227" cy="204" r="1.8"/><circle cx="227" cy="213" r="1.8"/>
+    <circle cx="227" cy="246" r="1.8"/><circle cx="227" cy="255" r="1.8"/>
+    <circle cx="227" cy="276" r="1.8"/><circle cx="227" cy="285" r="1.8"/>
+    <circle cx="227" cy="348" r="1.8"/><circle cx="227" cy="357" r="1.8"/>
+    <circle cx="227" cy="369" r="1.8"/><circle cx="227" cy="378" r="1.8"/>
+    <circle cx="392.5" cy="183" r="1.8"/><circle cx="392.5" cy="192" r="1.8"/>
+    <circle cx="392.5" cy="204" r="1.8"/><circle cx="392.5" cy="213" r="1.8"/>
+    <circle cx="392.5" cy="246" r="1.8"/><circle cx="392.5" cy="255" r="1.8"/>
+    <circle cx="392.5" cy="276" r="1.8"/><circle cx="392.5" cy="285" r="1.8"/>
+    <circle cx="392.5" cy="348" r="1.8"/><circle cx="392.5" cy="357" r="1.8"/>
+    <circle cx="392.5" cy="369" r="1.8"/><circle cx="392.5" cy="378" r="1.8"/>
+  </g>
+
+  <!-- ghosted outlines of what mounts where -->
+  <g fill="none" stroke="#8A8578" stroke-width="1" stroke-dasharray="4 3">
+    <rect x="263" y="208.5" width="94" height="46.5"/>
+    <rect x="263" y="271.8" width="94" height="94.2"/>
+  </g>
+
+  <!-- ground -->
+  <line x1="150" y1="504" x2="470" y2="504" stroke="#2B2B2B" stroke-width="2"/>
+  <g stroke="#B8B2A6" stroke-width="1">
+    <line x1="156" y1="504" x2="148" y2="514"/><line x1="196" y1="504" x2="188" y2="514"/>
+    <line x1="236" y1="504" x2="228" y2="514"/><line x1="276" y1="504" x2="268" y2="514"/>
+    <line x1="316" y1="504" x2="308" y2="514"/><line x1="356" y1="504" x2="348" y2="514"/>
+    <line x1="396" y1="504" x2="388" y2="514"/><line x1="436" y1="504" x2="428" y2="514"/>
+  </g>
+
+  <!-- labels -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" fill="#5A5650">
+    <g stroke="#7A756B" stroke-width="0.7" fill="none">
+      <path d="M217,187 L120,187"/><path d="M217,208 L120,208"/>
+      <path d="M217,250 L120,250"/><path d="M217,280 L120,280"/>
+      <path d="M217,352 L120,352"/><path d="M217,373 L120,373"/>
+      <path d="M382,187 L500,187"/><path d="M382,208 L500,208"/>
+      <path d="M382,250 L500,250"/><path d="M382,280 L500,280"/>
+      <path d="M382,352 L500,352"/><path d="M382,373 L500,373"/>
+    </g>
+    <g text-anchor="end" fill="#2B2B2B" font-weight="600">
+      <text x="116" y="191">R1 &#183; 57&#8211;60&#189;&#8243;</text>
+      <text x="116" y="212">R2 &#183; 53&#189;&#8211;57&#8243;</text>
+      <text x="116" y="254">R3 &#183; 46&#189;&#8211;50&#8243;</text>
+      <text x="116" y="284">R4 &#183; 41&#189;&#8211;45&#8243;</text>
+      <text x="116" y="356">R5 &#183; 29&#189;&#8211;33&#8243;</text>
+      <text x="116" y="377">R6 &#183; 26&#8211;29&#189;&#8243;</text>
+    </g>
+    <text x="505" y="191">panel top + visor</text>
+    <text x="505" y="212">plaque, upper hole</text>
+    <text x="505" y="254">plaque, lower hole</text>
+    <text x="505" y="284">mailbox, upper holes</text>
+    <text x="505" y="356">mailbox, lower holes</text>
+    <text x="505" y="377">panel bottom</text>
+  </g>
+
+  <text x="310" y="548" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#2B2B2B">all six rails: 2x4 &#215; 24&#8243;</text>
+  <text x="310" y="566" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" fill="#7A756B">two 4&#8243; structural screws per end, through the post face &#183; rail fronts set back &#190;&#8243; from the post faces</text>
+  <text x="310" y="590" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10.5" fill="#7A756B">R1+R2 and R5+R6 stack in pairs, giving 7&#8243; of continuous backing at the panel top and behind the mailbox foot</text>
+</svg>

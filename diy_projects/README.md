@@ -11,6 +11,7 @@ Build documentation for things made by hand. Each page is meant to be complete e
 | Project | What it is | Status |
 |---|---|---|
 | [Gokulashtami Mantapam](GokulashtamiMantapam.md) | 40" × 40" × 70" knock-down lattice pergola — 5 × 5 grid, 16 hanging hooks, legs that bolt off with stainless threaded inserts. Hand saw, drill, and mitre box only. | Planned |
+| [Mailbox Post](MailboxPost.md) | 31" × 64" kerbside two-post cedar panel carrying a wall-mount mailbox and a lit ceramic address plaque. Rail grid behind the panel so every fixing lands in solid wood; heights driven by the USPS 41–45" band. | Planned |
 
 ---
 
