@@ -11,7 +11,9 @@ Build documentation for things made by hand. Each page is meant to be complete e
 | Project | What it is | Status |
 |---|---|---|
 | [Gokulashtami Mantapam](GokulashtamiMantapam.md) | 40" × 40" × 70" knock-down lattice pergola — 5 × 5 grid, 16 hanging hooks, legs that bolt off with stainless threaded inserts. Hand saw, drill, and mitre box only. | Planned |
-| [Mailbox Post](MailboxPost.md) | 31" × 64" kerbside two-post cedar panel carrying a wall-mount mailbox and a lit ceramic address plaque. Rail grid behind the panel so every fixing lands in solid wood; heights driven by the USPS 41–45" band. | Planned |
+| [Mailbox Post — Perpendicular](MailboxPostPerpendicular.md) | Adoorn post-mount box on a 31" × 60" cedar frame set end-on to the street. No cantilever, 3½" facing traffic, a lit address plaque on each side panel. **Recommended.** | Planned |
+| [Mailbox Post — Parallel](MailboxPostParallel.md) | The same box on a 31" × 68" cedar sign panel facing the road, with the mailbox cantilevered toward the kerb on braces. Best signage, bigger sail. | Planned |
+| [Mailbox Post — wall-mount](MailboxPost.md) | Earlier version built around a wall-mount box. Superseded once that box turned out not to be USPS-approved for kerbside delivery. | Superseded |
 
 ---
 

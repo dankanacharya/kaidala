@@ -1,5 +1,12 @@
-# Mailbox Post
+# Mailbox Post — wall-mount version (superseded)
 ### 31" × 64" kerbside cedar panel post, solar-lit
+
+> **Superseded.** This design carried a wall-mount box, which is approved for door delivery
+> rather than kerbside — see §1.1 below. It was replaced by a USPS-approved post-mount box on
+> the same cedar frame, drawn two ways:
+> **[perpendicular to the street](MailboxPostPerpendicular.md)** (recommended) and
+> **[parallel to the street](MailboxPostParallel.md)**.
+> Kept for the reasoning in §1–§2, which still applies.
 
 A two-post cedar panel carrying a wall-mount locking mailbox and a ceramic address plaque, lit by solar. The panel is a skin over a ladder of 2x4 rails set at heights chosen from the hardware, so every screw lands in solid wood. Because it stands at the kerb, the geometry is driven by the USPS delivery rules rather than by what looks nice — heights are measured from the **road surface**, and the footing is deliberately weak.
 
