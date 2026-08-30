@@ -21,6 +21,8 @@ Two 4x4 posts standing in line pointing away from the road, a beam over the top,
 
 ![Side elevation of the perpendicular design seen from along the road: two posts in line 31 inches apart carrying a beam at 60 inches, the mailbox on a platform at 43 inches with its door toward the street, and a ceramic plaque on the side panel below](images/mailpost-perpendicular-elevation.svg)
 
+![Street-side elevation: standing in the road you see only a three and a half inch post edge, a nine and a quarter inch platform end and the nine and a half inch mailbox door, with the much larger envelope of the parallel version ghosted behind for comparison](images/mailpost-perpendicular-street.svg)
+
 ---
 
 ## 1. Why this orientation wins
@@ -28,6 +30,8 @@ Two 4x4 posts standing in line pointing away from the road, a beam over the top,
 **The mailbox needs no cantilever.** Its 21" length runs along the post line, so a platform spanning both posts carries it directly. In the parallel version that same box hangs 21" out into the road on knee braces. A carrier tugs on that door several hundred times a year, and mail piles up at the far end — the perpendicular layout puts all of that straight down onto two posts.
 
 **It is a much smaller thing to hit.** A kerbside support is meant to give way when struck. This one shows a 3½" post edge to traffic rather than a 31" panel, so it catches far less wind and presents far less to a vehicle leaving the road. That matters more here than anywhere else in the design.
+
+The street-side elevation above is the argument in one picture: **9½" wide at the mailbox, 3½" everywhere else**, against the ghosted 31" × 68" envelope of the parallel version drawn from the same viewpoint.
 
 **Both approaches get a number.** One plaque on each side panel. A driver coming from either direction reads the number square-on for the whole approach, instead of glimpsing a street-facing panel once. Two tiles instead of one is the price, and it is worth paying.
 
