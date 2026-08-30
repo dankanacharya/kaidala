@@ -20,6 +20,8 @@ This is the **signage** option: a flat face aimed at the road, with the house nu
 
 ![Street-facing elevation of the parallel design: a 31 inch wide cedar panel 68 inches tall, with the mailbox seen end-on cantilevered toward the road at 43 inches, and the ceramic plaque above it lit by a solar visor](images/mailpost-parallel-elevation.svg)
 
+![Side elevation with the street to the left, showing the mailbox cantilevered 21 inches toward the road on a 2x10 platform with two knee braces running back down to the panel at 30 inches](images/mailpost-parallel-side.svg)
+
 ---
 
 ## 1. Choose this one deliberately
@@ -28,7 +30,7 @@ This is the **signage** option: a flat face aimed at the road, with the house nu
 
 **What it costs you.**
 
-*A 21" cantilever.* The box's 21" length runs toward the road, so it hangs off the panel on a platform and two knee braces. That joint carries 15 lb of box, a few pounds of mail, and a carrier pulling the door open several hundred times a year. It is entirely buildable — the braces below make it stiff — but it is a moving, loaded joint where the perpendicular version has none.
+*A 21" cantilever.* The box's 21" length runs toward the road, so it hangs off the panel on a platform and two knee braces — see the side elevation above. That joint carries 15 lb of box, a few pounds of mail, and a carrier pulling the door open several hundred times a year. It is entirely buildable — the braces below make it stiff — but it is a moving, loaded joint where the perpendicular version has none.
 
 *About 10 sq ft of sail.* A 46½" × 24" panel plus the beam, all facing the prevailing weather, on two posts in a deliberately weak footing.
 
