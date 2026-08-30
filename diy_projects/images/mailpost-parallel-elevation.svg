@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 640" width="620" height="640" role="img" aria-label="Street-facing elevation of the parallel design: a 31 inch wide cedar panel 68 inches tall, with the Adoorn mailbox seen end-on cantilevered toward the road at 43 inches, and the ceramic plaque above it lit by a solar visor">
+  <rect x="0" y="0" width="620" height="640" fill="#FCFBF8"/>
+  <rect x="0.5" y="0.5" width="619" height="639" fill="none" stroke="#E4E0D7"/>
+
+  <text x="310" y="32" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#2B2B2B">A &#8212; parallel to the street</text>
+  <text x="310" y="50" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11.5" fill="#7A756B">As seen from the road &#183; heights above the road surface &#183; scale 6 px = 1&#8243;</text>
+
+  <!-- USPS band -->
+  <rect x="100" y="242" width="380" height="24" fill="#BFD9C4" opacity="0.5"/>
+  <line x1="100" y1="242" x2="480" y2="242" stroke="#5C8A67" stroke-width="0.8" stroke-dasharray="4 3"/>
+  <line x1="100" y1="266" x2="480" y2="266" stroke="#5C8A67" stroke-width="0.8" stroke-dasharray="4 3"/>
+
+  <!-- posts -->
+  <rect x="217" y="173" width="21" height="351" fill="#D9BC8E" stroke="#6B4A2A" stroke-width="1"/>
+  <rect x="382" y="173" width="21" height="351" fill="#D9BC8E" stroke="#6B4A2A" stroke-width="1"/>
+
+  <!-- panel -->
+  <g fill="#E3CBA3" stroke="#6B4A2A" stroke-width="1">
+    <rect x="238" y="173" width="36" height="279"/>
+    <rect x="274" y="173" width="36" height="279"/>
+    <rect x="310" y="173" width="36" height="279"/>
+    <rect x="346" y="173" width="36" height="279"/>
+  </g>
+
+  <!-- beam -->
+  <rect x="199" y="152" width="222" height="21" fill="#C89B6A" stroke="#6B4A2A" stroke-width="1"/>
+  <line x1="199" y1="168" x2="421" y2="168" stroke="#A87B4A" stroke-width="0.8"/>
+
+  <!-- solar deck lights -->
+  <g stroke="#4A4A4A" stroke-width="1">
+    <rect x="214" y="146" width="27" height="6" fill="#4A4A4A"/><rect x="217" y="138" width="21" height="8" fill="#FFF3C4"/>
+    <path d="M217,138 L227.5,129 L238,138 Z" fill="#4A4A4A"/>
+    <rect x="379" y="146" width="27" height="6" fill="#4A4A4A"/><rect x="382" y="138" width="21" height="8" fill="#FFF3C4"/>
+    <path d="M382,138 L392.5,129 L403,138 Z" fill="#4A4A4A"/>
+  </g>
+
+  <!-- light spill -->
+  <path d="M252,183 L368,183 L379,243 L241,243 Z" fill="#FFF3C4" opacity="0.45"/>
+  <!-- visor -->
+  <rect x="250" y="173" width="120" height="10" fill="#C89B6A" stroke="#6B4A2A" stroke-width="1"/>
+  <line x1="252" y1="182" x2="368" y2="182" stroke="#E8B93A" stroke-width="2"/>
+
+  <!-- plaque -->
+  <rect x="263" y="192.5" width="94" height="46.5" fill="#FAF7EF" stroke="#8A8578" stroke-width="1"/>
+  <rect x="266" y="195.5" width="88" height="40.5" fill="none" stroke="#C9B87A" stroke-width="1.2"/>
+  <g fill="#E8B93A"><circle cx="273" cy="203" r="3"/><circle cx="347" cy="203" r="3"/><circle cx="273" cy="228" r="3"/><circle cx="347" cy="228" r="3"/></g>
+  <text x="310" y="228" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="30" font-weight="600" fill="#3A5A78">17</text>
+
+  <!-- knee braces beyond -->
+  <g fill="none" stroke="#A89880" stroke-width="1" stroke-dasharray="4 3">
+    <path d="M292,311 L292,380 M301,311 L301,380 M292,380 L301,380"/>
+    <path d="M319,311 L319,380 M328,311 L328,380 M319,380 L328,380"/>
+  </g>
+
+  <!-- platform, seen end-on -->
+  <rect x="282" y="302" width="56" height="9" fill="#C89B6A" stroke="#6B4A2A" stroke-width="1"/>
+
+  <!-- mailbox, seen end-on: the door faces you -->
+  <rect x="281.5" y="245" width="57" height="57" fill="#3A3A3A" stroke="#1F1F1F" stroke-width="1"/>
+  <rect x="286" y="249" width="48" height="45" fill="#454545" stroke="#6E6E6E" stroke-width="1"/>
+  <circle cx="310" cy="290" r="3.5" fill="none" stroke="#9A9A9A" stroke-width="1.4"/>
+  <path d="M281.5,245 L338.5,247" stroke="#6E6E6E" stroke-width="1"/>
+
+  <!-- ground and road -->
+  <line x1="150" y1="524" x2="470" y2="524" stroke="#2B2B2B" stroke-width="2"/>
+  <g stroke="#B8B2A6" stroke-width="1">
+    <line x1="160" y1="524" x2="152" y2="534"/><line x1="200" y1="524" x2="192" y2="534"/>
+    <line x1="240" y1="524" x2="232" y2="534"/><line x1="280" y1="524" x2="272" y2="534"/>
+    <line x1="320" y1="524" x2="312" y2="534"/><line x1="360" y1="524" x2="352" y2="534"/>
+    <line x1="400" y1="524" x2="392" y2="534"/><line x1="440" y1="524" x2="432" y2="534"/>
+  </g>
+  <line x1="130" y1="560" x2="490" y2="560" stroke="#5A5650" stroke-width="1.4" stroke-dasharray="7 4"/>
+  <text x="310" y="576" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#2B2B2B">road surface &#8212; the datum USPS measures from</text>
+
+  <!-- callouts -->
+  <g font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11" fill="#5A5650">
+    <g stroke="#7A756B" stroke-width="0.8" fill="none">
+      <path d="M421,152 L440,152"/>
+      <path d="M370,178 L440,132"/>
+      <path d="M357,216 L440,216"/>
+      <path d="M338.5,274 L440,274"/>
+      <path d="M338,307 L440,320"/>
+      <path d="M328,360 L440,372"/>
+      <path d="M382,452 L440,452"/>
+    </g>
+    <text x="445" y="136">Solar-lit cedar visor</text>
+    <text x="445" y="156">68&#8243; &#8212; top of beam</text>
+    <text x="445" y="213">Ceramic plaque</text>
+    <text x="445" y="227">53&#189;&#8211;61&#188;&#8243;</text>
+    <text x="445" y="264">Adoorn box end-on,</text>
+    <text x="445" y="278">9&#189;&#8243; sq &#215; 21&#8243; deep,</text>
+    <text x="445" y="292">43&#8211;52&#189;&#8243;</text>
+    <text x="445" y="324">2x10 platform</text>
+    <text x="445" y="376">Knee braces beyond</text>
+    <text x="445" y="456">18&#8243; &#8212; panel bottom</text>
+  </g>
+  <text x="104" y="238" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" font-weight="600" fill="#3F6349">USPS 41&#8211;45&#8243;</text>
+  <text x="104" y="280" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="10" fill="#3F6349">the box floor lands in this band</text>
+
+  <!-- height bracket -->
+  <g stroke="#7A756B" stroke-width="0.8" fill="none">
+    <path d="M190,152 L190,560"/><path d="M185,152 L195,152"/><path d="M185,560 L195,560"/>
+    <path d="M199,152 L182,152" stroke-dasharray="3 3"/>
+  </g>
+  <text x="176" y="356" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#2B2B2B" transform="rotate(-90 176 356)">68&#8243; above the road</text>
+
+  <g stroke="#7A756B" stroke-width="0.8" fill="none">
+    <path d="M217,592 L403,592"/><path d="M217,587 L217,597"/><path d="M403,587 L403,597"/>
+    <path d="M238,614 L382,614"/><path d="M238,609 L238,619"/><path d="M382,609 L382,619"/>
+  </g>
+  <text x="310" y="588" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#2B2B2B">31&#8243; overall</text>
+  <text x="310" y="610" text-anchor="middle" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="11" fill="#5A5650">24&#8243; clear &#8212; four 6&#8243; boards</text>
+</svg>
